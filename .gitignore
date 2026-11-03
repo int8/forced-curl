@@ -1,0 +1,6 @@
+results/*.jsonl
+results/labels/*.jsonl
+results/labels/*.log
+__pycache__/
+.venv/
+*.pyc
