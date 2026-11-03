@@ -10,7 +10,7 @@ wrote were kept as text and classified offline. **Nothing a model wrote was ever
 was ever contacted.** Every run happened inside `unshare -r -n`, a network-less namespace.
 
 The 400,000-row dataset and the label files are on Hugging Face:
-`https://huggingface.co/datasets/int8/forced-curl`.
+`https://huggingface.co/datasets/kamilc-bst/forced-curl`.
 
 ## The experiment
 
